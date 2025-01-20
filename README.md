@@ -48,4 +48,4 @@ Une fois l'inférence implémentée, vous pouvez explorer des pistes pour aller 
 Ce TP vous permettra de comprendre les bases de l'implémentation d'un réseau de neurones convolutif sur GPU en utilisant CUDA. Vous apprendrez à optimiser les opérations matricielles, à implémenter des couches de convolution, et à gérer des données complexes comme celles du dataset MNIST.
 
 #### Pour plus de détails consulter sur les résultats :  
-[Implémentation d'un CNN - LeNet-5 sur GPU.pdf](./Implémentation d'un CNN - LeNet-5 sur GPU.pdf)
+[Rapport.pdf](./Rapport.pdf)
